@@ -1,0 +1,84 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U air_traffic_controller.shift_specification.cf_initialize%b  air_traffic_controller-shift_specification-cf_initialize.adb  ae711342 NE OO SU
+W air_traffic_controller.shift_specification%s  air_traffic_controller-shift_specification.adb  air_traffic_controller-shift_specification.ali
+
+U air_traffic_controller.shift_specification.cf_initialize%s  air_traffic_controller-shift_specification-cf_initialize.ads  aba5b1eb EE NE OO SU
+W air_traffic_controller.shift_specification%s  air_traffic_controller-shift_specification.adb  air_traffic_controller-shift_specification.ali
+
+D ada.ads		20210228103930 76789da1 ada%s
+D a-charac.ads		20210228103928 2d3ec45b ada.characters%s
+D a-chlat1.ads		20210228103928 66457d31 ada.characters.latin_1%s
+D a-contai.ads		20210228103928 61e5e089 ada.containers%s
+D a-cohata.ads		20210228103928 80a8c839 ada.containers.hash_tables%s
+D a-cohama.ads		20210228103928 8205bf40 ada.containers.hashed_maps%s
+D a-conhel.ads		20210228103928 20298884 ada.containers.helpers%s
+D a-convec.ads		20210228103928 7e2b0fdf ada.containers.vectors%s
+D a-except.ads		20210228103928 a7106115 ada.exceptions%s
+D a-finali.ads		20210228103928 bf4f806b ada.finalization%s
+D a-iteint.ads		20210228103928 7c7305e9 ada.iterator_interfaces%s
+D a-stream.ads		20210228103929 119b8fb3 ada.streams%s
+D a-string.ads		20210228103929 90ac6797 ada.strings%s
+D a-strmap.ads		20210228103929 e8bb714a ada.strings.maps%s
+D a-strunb.ads		20210228103929 1656705b ada.strings.unbounded%s
+D a-tags.ads		20210228103929 edddc8f0 ada.tags%s
+D a-unccon.ads		20210228103930 0e9b276f ada.unchecked_conversion%s
+D air_traffic_controller.ads  20210312092545 beb85d02 air_traffic_controller%s
+D air_traffic_controller-shift_specification.ads  20210312092545 4d4d8df4 air_traffic_controller.shift_specification%s
+D air_traffic_controller-shift_specification-cf_initialize.ads  20210312092545 e6e83c1f air_traffic_controller.shift_specification.cf_initialize%s
+D air_traffic_controller-shift_specification-cf_initialize.adb  20210312092545 48992f5d air_traffic_controller.shift_specification.cf_initialize%b
+D coldframe.ads		20210311114517 fc6683bd coldframe%s
+D coldframe-instances.ads  20210311114517 fae4e99d coldframe.instances%s
+D interfac.ads		20210228103931 5ab55268 interfaces%s
+D i-c.ads		20210228103931 c624fa43 interfaces.c%s
+D system.ads		20210228103934 4635ec04 system%s
+D s-atacco.ads		20210228103931 4c36d12f system.address_to_access_conversions%s
+D s-atocou.ads		20210228103931 b45c2d8d system.atomic_counters%s
+D s-exctab.ads		20210228103932 54135002 system.exception_table%s
+D s-finmas.ads		20210228103932 7811a767 system.finalization_masters%s
+D s-finroo.ads		20210228103932 4ff27390 system.finalization_root%s
+D s-linux.ads		20210228103932 ed0b8aee system.linux%s
+D s-multip.ads		20210228103932 38ac9f73 system.multiprocessors%s
+D s-oscons.ads		20210228103932 ffb5e830 system.os_constants%s
+D s-osinte.ads		20210228103932 675bad69 system.os_interface%s
+D s-parame.ads		20210228103933 4752c4cb system.parameters%s
+D s-pooglo.ads		20210228103933 ede33ef8 system.pool_global%s
+D s-secsta.ads		20210228103933 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210228103933 a7318a92 system.soft_links%s
+D s-stache.ads		20210228103933 a37c21ec system.stack_checking%s
+D s-stausa.ads		20210228103933 017a0a05 system.stack_usage%s
+D s-stalib.ads		20210228103933 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20210228103933 2dc34a04 system.storage_elements%s
+D s-stopoo.ads		20210228103933 e9fa2dd8 system.storage_pools%s
+D s-stposu.ads		20210228103933 e251976f system.storage_pools.subpools%s
+D s-stratt.ads		20210228103933 9a2744e9 system.stream_attributes%s
+D s-tasinf.ads		20210228103933 2b3f8252 system.task_info%s
+D s-taspri.ads		20210228103933 f40ac08d system.task_primitives%s
+D s-taskin.ads		20210228103933 88fba9ad system.tasking%s
+D s-traent.ads		20210228103934 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20210228103934 5ecf7212 system.unsigned_types%s
+G a e
+G c Z s b [cf_initialize air_traffic_controller__shift_specification 10 54 none]
+G r c none [cf_initialize air_traffic_controller__shift_specification 10 54 none] [create_all air_traffic_controller__shift_specification 34 14 none]
+X 11 a-iteint.ads
+24h9 Forward_Iterator
+32h9 Reversible_Iterator<24R9[8|111]>
+X 18 air_traffic_controller.ads
+25K9*Air_Traffic_Controller 34e27 20|10r11 21|10r11 13r5
+X 19 air_traffic_controller-shift_specification.ads
+15K40*Shift_Specification 63e47 20|10r34 21|10r34 13r28
+34U14*Create_All 21|12s4
+X 20 air_traffic_controller-shift_specification-cf_initialize.ads
+10U54*CF_Initialize 19|15k40 21|10b54 13l48 13t61
+X 41 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+

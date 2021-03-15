@@ -1,0 +1,40 @@
+*AVL            Booch Components
+*CPU
+*DOM            ASIS
+*GMT
+*HTML
+*HTTP
+*IO
+*OK
+*OS
+*SNTP
+*TCP
+*UDP
+*URL
+*XML
+ASCII
+AUnit
+BC              Booch Components
+CArgv		TASH
+CGI
+CHAR_BIT	Interfaces.C
+ColdFrame
+GNAT
+HTTP
+IDE
+OpenToken
+RTC
+XDR
+XMLAda
+char_array	Interfaces.C
+chars_ptr	Interfaces.C
+clock_getres	POSIX time
+clock_gettime	POSIX time
+clock_settime	POSIX time
+int		Interfaces.C
+long		Interfaces.C
+short		Interfaces.C
+timespec
+unsigned	Interfaces.C
+unsigned_long	Interfaces.C
+unsigned_short	Interfaces.C

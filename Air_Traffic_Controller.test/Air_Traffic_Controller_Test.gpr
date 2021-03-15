@@ -1,0 +1,20 @@
+with "Options";
+with "ColdFrame";
+with "aunit";
+
+project Air_Traffic_Controller_Test is
+
+   for Main use ("test_air_traffic_controller.adb");
+
+   for Exec_Dir use ".";
+
+   for Source_Dirs use
+     (
+      "../Air_Traffic_Controller.gen",
+      "../Air_Traffic_Controller.impl",
+      "."
+     );
+
+   for Object_Dir use ".build";
+
+end Air_Traffic_Controller_Test;
