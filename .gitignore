@@ -1,0 +1,7 @@
+Air_Traffic_Controller.test/test_air_traffic_controller
+Air_Traffic_Controller.test/.build/*
+*.gen
+*.norm
+*.norm-stamp
+*.log
+.generate/*
