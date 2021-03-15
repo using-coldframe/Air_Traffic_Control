@@ -1,5 +1,5 @@
 CASE_EXCEPTIONS = case_exceptions
-COLDFRAMEOUT = Temp
+COLDFRAMEOUT = .generate
 MODELS = .
 include $(COLDFRAME)/Makefile.inc
 
@@ -35,7 +35,8 @@ test_air_traffic_controller_domain: Air_Traffic_Controller.test/test_air_traffic
 
 clean:
 	- gnatclean -q -P Air_Traffic_Controller.test/Air_Traffic_Controller_Test
+	- rm -f Air_Traffic_Controller.test/.build/*
 	- rm -rf *.gen
 	- rm -f *.norm
 	- rm -f *.norm-stamp
-	- rm -f Temp/*
+	- rm -f .generate/*
