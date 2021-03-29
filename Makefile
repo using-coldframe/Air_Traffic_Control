@@ -1,6 +1,8 @@
-CASE_EXCEPTIONS = case_exceptions
-COLDFRAMEOUT = .generate
-MODELS = .
+CASE_EXCEPTIONS    = case_exceptions
+COLDFRAMEOUT       = .cfout
+GENERATE_ACCESSORS = yes
+MODELS             = .
+
 include $(COLDFRAME)/Makefile.inc
 
 all: \
@@ -39,4 +41,4 @@ clean:
 	- rm -rf *.gen
 	- rm -f *.norm
 	- rm -f *.norm-stamp
-	- rm -f .generate/*
+	- rm -f .cfout/*

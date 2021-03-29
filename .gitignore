@@ -4,4 +4,5 @@ Air_Traffic_Controller.test/.build/*
 *.norm
 *.norm-stamp
 *.log
-.generate/*
+.cfout/*
+*.*~
