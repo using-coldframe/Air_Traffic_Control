@@ -26,7 +26,7 @@
       <fontname>Dialog</fontname>
       <fontsize>12</fontsize>
       <defaultstereotypeview>0</defaultstereotypeview>
-      <activediagram>Air Traffic Controller Lifecycle</activediagram>
+      <activediagram>Air Traffic Controller</activediagram>
     </settings>
     <searchpath href="PROJECT_DIR" />
     <members>
@@ -62,7 +62,7 @@
 			</model>
 		</userDefined>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed Mar 31 12:26:28 BST 2021'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed Mar 31 16:35:37 BST 2021'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.35.1(6) revised on $Date: 2012-12-30 14:06:01 +0100 (Sun, 30 Dec 2012) $ </XMI.exporterVersion>
@@ -125,7 +125,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000D90'
@@ -141,7 +141,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000D93'
@@ -157,7 +157,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
               </UML:Classifier.feature>
@@ -198,7 +198,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Date'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Time'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
               </UML:Classifier.feature>
@@ -232,7 +232,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Date'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Time'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
               </UML:Classifier.feature>
@@ -304,7 +304,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DA3'
@@ -401,7 +401,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DB8'
@@ -417,7 +417,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DBB'
@@ -582,7 +582,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                     </UML:TaggedValue>
                   </UML:ModelElement.taggedValue>
                   <UML:StructuralFeature.type>
-                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Text'/>
+                    <UML:DataType href = 'http://argouml.org/user-profiles/ColdFrameProfile.xmi#cf-dt-Unbounded_String'/>
                   </UML:StructuralFeature.type>
                 </UML:Attribute>
                 <UML:Attribute xmi.id = '127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DC2'
@@ -1224,7 +1224,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       name="Air Traffic Controller"
 >
   <group name="Fig0"
-       description="org.argouml.uml.diagram.static_structure.ui.FigClass[32, 32, 176, 112]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
+       description="org.argouml.uml.diagram.static_structure.ui.FigClass[32, 32, 208, 112]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
        href="127-0-1-1--9bb74d9:178172c457c:-8000:0000000000000D77"
        fill="1"
        fillcolor="white"
@@ -1237,7 +1237,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig0.0"
       x="32"
       y="32"
-      width="176"
+      width="208"
       height="112"
       fill="1"
       fillcolor="white"
@@ -1247,7 +1247,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <text name="Fig0.1"
       x="33"
       y="33"
-      width="174"
+      width="206"
       height="22"
       fill="0"
       fillcolor="white"
@@ -1286,7 +1286,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig0.3"
       x="32"
       y="55"
-      width="176"
+      width="208"
       height="1"
       fill="1"
       fillcolor="black"
@@ -1294,7 +1294,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig0.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[33, 56, 174, 60]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[33, 56, 206, 60]"
          href="127-0-1-1--9bb74d9:178172c457c:-8000:0000000000000D77"
          fill="0"
          fillcolor="white"
@@ -1307,7 +1307,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig0.4.0"
         x="33"
         y="56"
-        width="174"
+        width="206"
         height="60"
         fill="0"
         fillcolor="white"
@@ -1317,7 +1317,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <text name="Fig0.4.1"
         x="33"
         y="56"
-        width="174"
+        width="206"
         height="16"
         fill="0"
         fillcolor="white"
@@ -1329,11 +1329,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >«id» -ID : Text</text>
+      >«id» -ID : Unbounded_String</text>
       <text name="Fig0.4.2"
         x="33"
         y="72"
-        width="174"
+        width="206"
         height="16"
         fill="0"
         fillcolor="white"
@@ -1345,11 +1345,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >-Name : Text</text>
+      >-Name : Unbounded_String</text>
       <text name="Fig0.4.3"
         x="33"
         y="88"
-        width="174"
+        width="206"
         height="22"
         fill="0"
         fillcolor="white"
@@ -1361,12 +1361,12 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >-Rating : Text</text>
+      >-Rating : Unbounded_String</text>
     </group>
     <rectangle name="Fig0.5"
       x="32"
       y="116"
-      width="176"
+      width="208"
       height="1"
       fill="1"
       fillcolor="black"
@@ -1374,7 +1374,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig0.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[33, 117, 174, 25]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[33, 117, 206, 25]"
          href="127-0-1-1--9bb74d9:178172c457c:-8000:0000000000000D77"
          fill="0"
          fillcolor="white"
@@ -1387,7 +1387,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig0.6.0"
         x="33"
         y="117"
-        width="174"
+        width="206"
         height="25"
         fill="0"
         fillcolor="white"
@@ -1502,7 +1502,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >-Last_Shift_Ended : Date</text>
+      >-Last_Shift_Ended : Time</text>
     </group>
     <rectangle name="Fig1.5"
       x="416"
@@ -1643,7 +1643,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >-Time_Logged_In : Date</text>
+      >-Time_Logged_In : Time</text>
     </group>
     <rectangle name="Fig2.5"
       x="416"
@@ -1693,8 +1693,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigTextGroup"
                         ownerhref="127-0-1-1--9bb74d9:178172c457c:-8000:0000000000000D7A"
-                        angle="-147.0"
-                        offset="20" />
+                        angle="-163.0"
+                        offset="42" />
     </private>
     <path name="Fig3.0"
       description="org.argouml.gefext.ArgoFigPoly"
@@ -1705,7 +1705,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     >
       <moveto x="416"
               y="64" />
-      <lineto x="207"
+      <lineto x="239"
               y="64" />
     </path>
   </group>
@@ -1724,8 +1724,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigTextGroup"
                         ownerhref="127-0-1-1--9bb74d9:178172c457c:-8000:0000000000000D7B"
-                        angle="-171.0"
-                        offset="70" />
+                        angle="-173.0"
+                        offset="108" />
     </private>
     <path name="Fig4.0"
       description="org.argouml.gefext.ArgoFigPoly"
@@ -1743,7 +1743,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     </path>
   </group>
   <group name="Fig5"
-       description="org.argouml.uml.diagram.static_structure.ui.FigClass[944, 160, 176, 96]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
+       description="org.argouml.uml.diagram.static_structure.ui.FigClass[944, 160, 224, 96]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
        href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000D9F"
        fill="1"
        fillcolor="white"
@@ -1756,7 +1756,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig5.0"
       x="944"
       y="160"
-      width="176"
+      width="224"
       height="96"
       fill="1"
       fillcolor="white"
@@ -1766,7 +1766,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <text name="Fig5.1"
       x="945"
       y="161"
-      width="174"
+      width="222"
       height="22"
       fill="0"
       fillcolor="white"
@@ -1805,7 +1805,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig5.3"
       x="944"
       y="183"
-      width="176"
+      width="224"
       height="1"
       fill="1"
       fillcolor="black"
@@ -1813,7 +1813,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig5.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[945, 184, 174, 44]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[945, 184, 222, 44]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000D9F"
          fill="0"
          fillcolor="white"
@@ -1826,7 +1826,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig5.4.0"
         x="945"
         y="184"
-        width="174"
+        width="222"
         height="44"
         fill="0"
         fillcolor="white"
@@ -1836,7 +1836,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <text name="Fig5.4.1"
         x="945"
         y="184"
-        width="174"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -1848,11 +1848,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >«id» -Name : Text</text>
+      >«id» -Name : Unbounded_String</text>
       <text name="Fig5.4.2"
         x="945"
         y="200"
-        width="174"
+        width="222"
         height="22"
         fill="0"
         fillcolor="white"
@@ -1869,7 +1869,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig5.5"
       x="944"
       y="228"
-      width="176"
+      width="224"
       height="1"
       fill="1"
       fillcolor="black"
@@ -1877,7 +1877,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig5.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[945, 229, 174, 25]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[945, 229, 222, 25]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000D9F"
          fill="0"
          fillcolor="white"
@@ -1890,7 +1890,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig5.6.0"
         x="945"
         y="229"
-        width="174"
+        width="222"
         height="25"
         fill="0"
         fillcolor="white"
@@ -1957,7 +1957,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     </path>
   </group>
   <group name="Fig7"
-       description="org.argouml.uml.diagram.static_structure.ui.FigClass[944, 336, 176, 168]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
+       description="org.argouml.uml.diagram.static_structure.ui.FigClass[944, 336, 224, 176]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
        href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DAD"
        fill="1"
        fillcolor="white"
@@ -1970,8 +1970,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig7.0"
       x="944"
       y="336"
-      width="176"
-      height="168"
+      width="224"
+      height="176"
       fill="1"
       fillcolor="white"
       stroke="1"
@@ -1980,7 +1980,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <text name="Fig7.1"
       x="945"
       y="337"
-      width="174"
+      width="222"
       height="22"
       fill="0"
       fillcolor="white"
@@ -2019,7 +2019,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig7.3"
       x="944"
       y="359"
-      width="176"
+      width="224"
       height="1"
       fill="1"
       fillcolor="black"
@@ -2027,7 +2027,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig7.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[945, 360, 174, 56]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[945, 360, 222, 59]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DAD"
          fill="0"
          fillcolor="white"
@@ -2040,8 +2040,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig7.4.0"
         x="945"
         y="360"
-        width="174"
-        height="56"
+        width="222"
+        height="59"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -2050,7 +2050,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <text name="Fig7.4.1"
         x="945"
         y="360"
-        width="174"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2062,11 +2062,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >«id» -Number : Text</text>
+      >«id» -Number : Unbounded_String</text>
       <text name="Fig7.4.2"
         x="945"
         y="376"
-        width="174"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2078,11 +2078,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >-Location : Text</text>
+      >-Location : Unbounded_String</text>
       <text name="Fig7.4.3"
         x="945"
         y="392"
-        width="174"
+        width="222"
         height="22"
         fill="0"
         fillcolor="white"
@@ -2098,8 +2098,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     </group>
     <rectangle name="Fig7.5"
       x="944"
-      y="415"
-      width="176"
+      y="419"
+      width="224"
       height="1"
       fill="1"
       fillcolor="black"
@@ -2107,7 +2107,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig7.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[945, 416, 174, 88]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[945, 420, 222, 91]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DAD"
          fill="0"
          fillcolor="white"
@@ -2119,9 +2119,9 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       
       <rectangle name="Fig7.6.0"
         x="945"
-        y="416"
-        width="174"
-        height="88"
+        y="420"
+        width="222"
+        height="91"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -2129,8 +2129,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       />
       <text name="Fig7.6.1"
         x="945"
-        y="416"
-        width="174"
+        y="420"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2145,8 +2145,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       >-Set_Shift_Timeout()</text>
       <text name="Fig7.6.2"
         x="945"
-        y="432"
-        width="174"
+        y="436"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2161,8 +2161,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       >-Cancel_Shift_Timeout()</text>
       <text name="Fig7.6.3"
         x="945"
-        y="448"
-        width="174"
+        y="452"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2177,8 +2177,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       >-Give_Timeout_Warning()</text>
       <text name="Fig7.6.4"
         x="945"
-        y="464"
-        width="174"
+        y="468"
+        width="222"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2193,8 +2193,8 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       >+Log_In(ATC_ID : Text)</text>
       <text name="Fig7.6.5"
         x="945"
-        y="480"
-        width="174"
+        y="484"
+        width="222"
         height="22"
         fill="0"
         fillcolor="white"
@@ -2269,7 +2269,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     </path>
   </group>
   <group name="Fig9"
-       description="org.argouml.uml.diagram.static_structure.ui.FigClass[32, 336, 176, 112]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
+       description="org.argouml.uml.diagram.static_structure.ui.FigClass[32, 336, 208, 112]pathVisible=false;stereotypeView=0;operationsVisible=true;attributesVisible=true;"
        href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DBE"
        fill="1"
        fillcolor="white"
@@ -2282,7 +2282,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig9.0"
       x="32"
       y="336"
-      width="176"
+      width="208"
       height="112"
       fill="1"
       fillcolor="white"
@@ -2292,7 +2292,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <text name="Fig9.1"
       x="33"
       y="337"
-      width="174"
+      width="206"
       height="22"
       fill="0"
       fillcolor="white"
@@ -2331,7 +2331,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig9.3"
       x="32"
       y="359"
-      width="176"
+      width="208"
       height="1"
       fill="1"
       fillcolor="black"
@@ -2339,7 +2339,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig9.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[33, 360, 174, 60]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[33, 360, 206, 60]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DBE"
          fill="0"
          fillcolor="white"
@@ -2352,7 +2352,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig9.4.0"
         x="33"
         y="360"
-        width="174"
+        width="206"
         height="60"
         fill="0"
         fillcolor="white"
@@ -2362,7 +2362,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <text name="Fig9.4.1"
         x="33"
         y="360"
-        width="174"
+        width="206"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2374,11 +2374,11 @@ Traffic Controller.</UML:TaggedValue.dataValue>
         bold="false"
         textsize="12"
         justification="Left"
-      >«id» -Name : Text</text>
+      >«id» -Name : Unbounded_String</text>
       <text name="Fig9.4.2"
         x="33"
         y="376"
-        width="174"
+        width="206"
         height="16"
         fill="0"
         fillcolor="white"
@@ -2394,7 +2394,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <text name="Fig9.4.3"
         x="33"
         y="392"
-        width="174"
+        width="206"
         height="22"
         fill="0"
         fillcolor="white"
@@ -2411,7 +2411,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
     <rectangle name="Fig9.5"
       x="32"
       y="420"
-      width="176"
+      width="208"
       height="1"
       fill="1"
       fillcolor="black"
@@ -2419,7 +2419,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       strokecolor="black"
     />
     <group name="Fig9.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[33, 421, 174, 25]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[33, 421, 206, 25]"
          href="127-0-1-1--c53ede0:1781af474fd:-8000:0000000000000DBE"
          fill="0"
          fillcolor="white"
@@ -2432,7 +2432,7 @@ Traffic Controller.</UML:TaggedValue.dataValue>
       <rectangle name="Fig9.6.0"
         x="33"
         y="421"
-        width="174"
+        width="206"
         height="25"
         fill="0"
         fillcolor="white"
