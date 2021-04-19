@@ -1,9 +1,13 @@
-CASE_EXCEPTIONS    = case_exceptions
-COLDFRAMEOUT       = .cfout
+MODELS             = $(PWD)
+CASE_EXCEPTIONS    = $(PWD)/case_exceptions
+COLDFRAMEOUT       = $(PWD)/.cfout
 GENERATE_ACCESSORS = yes
-MODELS             = .
 
-include $(COLDFRAME)/Makefile.inc
+include $(HOME)/Tools/coldframe/Makefile.inc
+
+ifneq (, $(CYGWIN))
+  ADA_PROJECT_PATH := $(shell cygpath -pm "$(ADA_PROJECT_PATH)")
+endif
 
 all: \
  domain_tests
